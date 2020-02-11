@@ -2,7 +2,7 @@
 
 When cloned for first time, you must run:
 
-### npm install
+### `npm install`
 
 To install all the project dependencies
 
